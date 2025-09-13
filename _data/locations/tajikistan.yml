@@ -6163,19 +6163,19 @@ organizations:
     membercount: 2
 
   - rank: 4
-    name: "zypl-career"
+    name: "bokievkhushnud"
     membercount: 1
 
   - rank: 5
-    name: "microsoft"
+    name: "llc-alif-technology"
     membercount: 1
 
   - rank: 6
-    name: "contobox"
+    name: "shylabs"
     membercount: 1
 
   - rank: 7
-    name: "evilmartians"
+    name: "zypl-career"
     membercount: 1
 
   - rank: 8
@@ -6183,11 +6183,11 @@ organizations:
     membercount: 1
 
   - rank: 9
-    name: "oxustj"
+    name: "microsoft"
     membercount: 1
 
   - rank: 10
-    name: "zyplai"
+    name: "pythonism"
     membercount: 1
 
 public_contributions_organizations:
@@ -6205,31 +6205,31 @@ public_contributions_organizations:
     membercount: 2
 
   - rank: 4
-    name: "zypl-career"
+    name: "n1k-dev"
     membercount: 1
 
   - rank: 5
-    name: "microsoft"
+    name: "shylabs"
     membercount: 1
 
   - rank: 6
-    name: "pythonism"
-    membercount: 1
-
-  - rank: 7
-    name: "codex-team"
-    membercount: 1
-
-  - rank: 8
-    name: "chayxana"
-    membercount: 1
-
-  - rank: 9
     name: "bokievkhushnud"
     membercount: 1
 
+  - rank: 7
+    name: "chayxana"
+    membercount: 1
+
+  - rank: 8
+    name: "llc-alif-technology"
+    membercount: 1
+
+  - rank: 9
+    name: "oxustj"
+    membercount: 1
+
   - rank: 10
-    name: "irsiyat"
+    name: "contobox"
     membercount: 1
 
 private_organizations:
@@ -6247,33 +6247,33 @@ private_organizations:
     membercount: 2
 
   - rank: 4
-    name: "chayxana"
-    membercount: 1
-
-  - rank: 5
-    name: "oxustj"
-    membercount: 1
-
-  - rank: 6
-    name: "llc-alif-technology"
-    membercount: 1
-
-  - rank: 7
     name: "shylabs"
     membercount: 1
 
+  - rank: 5
+    name: "koblesystems"
+    membercount: 1
+
+  - rank: 6
+    name: "silkroadprofessionals"
+    membercount: 1
+
+  - rank: 7
+    name: "evilmartians"
+    membercount: 1
+
   - rank: 8
-    name: "babolo-ai"
+    name: "zyplai"
     membercount: 1
 
   - rank: 9
-    name: "codex-team"
+    name: "zypl-career"
     membercount: 1
 
   - rank: 10
-    name: "elsegroup"
+    name: "babolo-ai"
     membercount: 1
-generated: 2025-09-13T20:52:15Z
+generated: 2025-09-13T22:52:13Z
 min_followers_required: 0
 total_user_count: 0
 title: Tajikistan
