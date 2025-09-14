@@ -4232,7 +4232,7 @@ private_users:
     name: "Shahrom"
     login: "sr-44"
     avatarUrl: https://avatars.githubusercontent.com/u/128609088?u=ca9e81c38037d1f5cdc8e8f9d559e0a96db64d6c&v=4
-    contributions: 1542
+    contributions: 1544
     company: "Alif Bank"
     organizations: ""
 
@@ -5544,7 +5544,7 @@ private_users:
     name: ""
     login: "pirzodah"
     avatarUrl: https://avatars.githubusercontent.com/u/71654472?u=d4962d18ddfddf3b98af8833295f886dfef65bef&v=4
-    contributions: 143
+    contributions: 146
     company: "@AlifCapital"
     organizations: ""
 
@@ -6167,27 +6167,27 @@ organizations:
     membercount: 1
 
   - rank: 5
-    name: "shylabs"
-    membercount: 1
-
-  - rank: 6
-    name: "bokievkhushnud"
-    membercount: 1
-
-  - rank: 7
     name: "lookona"
     membercount: 1
 
-  - rank: 8
-    name: "llc-alif-technology"
+  - rank: 6
+    name: "microsoft"
     membercount: 1
 
-  - rank: 9
+  - rank: 7
     name: "babolo-ai"
     membercount: 1
 
+  - rank: 8
+    name: "contobox"
+    membercount: 1
+
+  - rank: 9
+    name: "zyplai"
+    membercount: 1
+
   - rank: 10
-    name: "microsoft"
+    name: "codex-team"
     membercount: 1
 
 public_contributions_organizations:
@@ -6205,23 +6205,23 @@ public_contributions_organizations:
     membercount: 2
 
   - rank: 4
-    name: "chayxana"
+    name: "shylabs"
     membercount: 1
 
   - rank: 5
-    name: "babolo-ai"
-    membercount: 1
-
-  - rank: 6
     name: "contobox"
     membercount: 1
 
+  - rank: 6
+    name: "oxustj"
+    membercount: 1
+
   - rank: 7
-    name: "llc-alif-technology"
+    name: "zyplai"
     membercount: 1
 
   - rank: 8
-    name: "bokievkhushnud"
+    name: "zypl-career"
     membercount: 1
 
   - rank: 9
@@ -6229,7 +6229,7 @@ public_contributions_organizations:
     membercount: 1
 
   - rank: 10
-    name: "evilmartians"
+    name: "chayxana"
     membercount: 1
 
 private_organizations:
@@ -6247,33 +6247,33 @@ private_organizations:
     membercount: 2
 
   - rank: 4
-    name: "contobox"
+    name: "silkroadprofessionals"
     membercount: 1
 
   - rank: 5
-    name: "n1k-dev"
+    name: "bo-bo-web-studio"
     membercount: 1
 
   - rank: 6
-    name: "shylabs"
+    name: "elsegroup"
     membercount: 1
 
   - rank: 7
-    name: "liberty-education"
-    membercount: 1
-
-  - rank: 8
-    name: "zypl-career"
-    membercount: 1
-
-  - rank: 9
     name: "llc-alif-technology"
     membercount: 1
 
-  - rank: 10
+  - rank: 8
     name: "pythonism"
     membercount: 1
-generated: 2025-09-14T02:20:29Z
+
+  - rank: 9
+    name: "codex-team"
+    membercount: 1
+
+  - rank: 10
+    name: "shylabs"
+    membercount: 1
+generated: 2025-09-14T03:27:00Z
 min_followers_required: 0
 total_user_count: 0
 title: Tajikistan
