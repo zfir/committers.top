@@ -730,19 +730,19 @@ users:
     organizations: ""
 
   - rank: 92
-    name: "Neyro.tj"
-    login: "lumiontj"
-    avatarUrl: https://avatars.githubusercontent.com/u/179370131?u=9d975878d1857d76ebb7f1ba639dbdd47d5a778e&v=4
-    contributions: 54
-    company: "Neyro.tj and Lumion.tj"
-    organizations: ""
-
-  - rank: 93
     name: "Khairiddin Sakhiev"
     login: "KhairiddinSakhiev"
     avatarUrl: https://avatars.githubusercontent.com/u/93430063?u=ccfa824de098306f8ee69dcd3bf2089f707c12fa&v=4
     contributions: 54
     company: "SoftClub"
+    organizations: ""
+
+  - rank: 93
+    name: "Neyro.tj"
+    login: "lumiontj"
+    avatarUrl: https://avatars.githubusercontent.com/u/179370131?u=9d975878d1857d76ebb7f1ba639dbdd47d5a778e&v=4
+    contributions: 54
+    company: "Neyro.tj and Lumion.tj"
     organizations: ""
 
   - rank: 94
@@ -778,20 +778,20 @@ users:
     organizations: ""
 
   - rank: 98
+    name: "Jamoliddin"
+    login: "MS-LV"
+    avatarUrl: https://avatars.githubusercontent.com/u/102213457?u=b3c4a7f0e5b7883f8fc4470613ec234e216d661a&v=4
+    contributions: 49
+    company: ""
+    organizations: ""
+
+  - rank: 99
     name: "Somon Usmonzoda"
     login: "usmonzodasomon"
     avatarUrl: https://avatars.githubusercontent.com/u/135830386?u=e4ca15c881853d47c7457a9fc5e9f38aeacc03f2&v=4
     contributions: 49
     company: ""
     organizations: "stellify-org"
-
-  - rank: 99
-    name: "Munira"
-    login: "moonira98"
-    avatarUrl: https://avatars.githubusercontent.com/u/131816541?v=4
-    contributions: 48
-    company: ""
-    organizations: ""
 
   - rank: 100
     name: "Shohjahon"
@@ -802,14 +802,6 @@ users:
     organizations: ""
 
   - rank: 101
-    name: "Faridun Fatkhullozoda"
-    login: "faridun-dev"
-    avatarUrl: https://avatars.githubusercontent.com/u/121972180?u=83b3e8c9f156a2321283ade5b68521d11fe03e51&v=4
-    contributions: 48
-    company: " J\u0145\u0154 FTech"
-    organizations: ""
-
-  - rank: 102
     name: "Shakhron Komilov"
     login: "komilovsg"
     avatarUrl: https://avatars.githubusercontent.com/u/130964745?u=e5aada5840b1170aaee27434d5652aaf42ca87cb&v=4
@@ -817,29 +809,37 @@ users:
     company: ""
     organizations: ""
 
+  - rank: 102
+    name: "Faridun Fatkhullozoda"
+    login: "faridun-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/121972180?u=83b3e8c9f156a2321283ade5b68521d11fe03e51&v=4
+    contributions: 48
+    company: " J\u0145\u0154 FTech"
+    organizations: ""
+
   - rank: 103
-    name: "Jamoliddin"
-    login: "MS-LV"
-    avatarUrl: https://avatars.githubusercontent.com/u/102213457?u=b3c4a7f0e5b7883f8fc4470613ec234e216d661a&v=4
+    name: "Munira"
+    login: "moonira98"
+    avatarUrl: https://avatars.githubusercontent.com/u/131816541?v=4
     contributions: 48
     company: ""
     organizations: ""
 
   - rank: 104
-    name: "Victor Ibragimov"
-    login: "Ibragimov"
-    avatarUrl: https://avatars.githubusercontent.com/u/1321588?v=4
-    contributions: 47
-    company: "Tajik KDE & Software Localization Team"
-    organizations: ""
-
-  - rank: 105
     name: "Ehson"
     login: "icoder-new"
     avatarUrl: https://avatars.githubusercontent.com/u/59335419?u=61061d235278c7a1e9f531bec63541135f00ec4e&v=4
     contributions: 47
     company: "@alifcapital"
     organizations: "stellify-org"
+
+  - rank: 105
+    name: "Victor Ibragimov"
+    login: "Ibragimov"
+    avatarUrl: https://avatars.githubusercontent.com/u/1321588?v=4
+    contributions: 47
+    company: "Tajik KDE & Software Localization Team"
+    organizations: ""
 
   - rank: 106
     name: "Kamolov Daler"
@@ -2923,20 +2923,20 @@ users_public_contributions:
     organizations: ""
 
   - rank: 110
+    name: "Jamoliddin"
+    login: "MS-LV"
+    avatarUrl: https://avatars.githubusercontent.com/u/102213457?u=b3c4a7f0e5b7883f8fc4470613ec234e216d661a&v=4
+    contributions: 53
+    company: ""
+    organizations: ""
+
+  - rank: 111
     name: "Ehson"
     login: "icoder-new"
     avatarUrl: https://avatars.githubusercontent.com/u/59335419?u=61061d235278c7a1e9f531bec63541135f00ec4e&v=4
     contributions: 52
     company: "@alifcapital"
     organizations: "stellify-org"
-
-  - rank: 111
-    name: "Jamoliddin"
-    login: "MS-LV"
-    avatarUrl: https://avatars.githubusercontent.com/u/102213457?u=b3c4a7f0e5b7883f8fc4470613ec234e216d661a&v=4
-    contributions: 52
-    company: ""
-    organizations: ""
 
   - rank: 112
     name: "Somon Usmonzoda"
@@ -4104,7 +4104,7 @@ private_users:
     name: " Faiziev"
     login: "FTursunboy"
     avatarUrl: https://avatars.githubusercontent.com/u/107097209?v=4
-    contributions: 5668
+    contributions: 5669
     company: "ShamCRM"
     organizations: ""
 
@@ -5992,7 +5992,7 @@ private_users:
     name: "Jamoliddin"
     login: "MS-LV"
     avatarUrl: https://avatars.githubusercontent.com/u/102213457?u=b3c4a7f0e5b7883f8fc4470613ec234e216d661a&v=4
-    contributions: 52
+    contributions: 53
     company: ""
     organizations: ""
 
@@ -6163,7 +6163,7 @@ organizations:
     membercount: 2
 
   - rank: 4
-    name: "zyplai"
+    name: "llc-alif-technology"
     membercount: 1
 
   - rank: 5
@@ -6171,23 +6171,23 @@ organizations:
     membercount: 1
 
   - rank: 6
-    name: "pythonism"
+    name: "contobox"
     membercount: 1
 
   - rank: 7
-    name: "n1k-dev"
+    name: "oxustj"
     membercount: 1
 
   - rank: 8
-    name: "bokievkhushnud"
+    name: "shylabs"
     membercount: 1
 
   - rank: 9
-    name: "llc-alif-technology"
+    name: "babolo-ai"
     membercount: 1
 
   - rank: 10
-    name: "lookona"
+    name: "n1k-dev"
     membercount: 1
 
 public_contributions_organizations:
@@ -6205,11 +6205,11 @@ public_contributions_organizations:
     membercount: 2
 
   - rank: 4
-    name: "irsiyat"
+    name: "pythonism"
     membercount: 1
 
   - rank: 5
-    name: "codex-team"
+    name: "contobox"
     membercount: 1
 
   - rank: 6
@@ -6217,7 +6217,7 @@ public_contributions_organizations:
     membercount: 1
 
   - rank: 7
-    name: "microsoft"
+    name: "n1k-dev"
     membercount: 1
 
   - rank: 8
@@ -6225,11 +6225,11 @@ public_contributions_organizations:
     membercount: 1
 
   - rank: 9
-    name: "pythonism"
+    name: "bokievkhushnud"
     membercount: 1
 
   - rank: 10
-    name: "bokievkhushnud"
+    name: "babolo-ai"
     membercount: 1
 
 private_organizations:
@@ -6247,33 +6247,33 @@ private_organizations:
     membercount: 2
 
   - rank: 4
-    name: "codex-team"
-    membercount: 1
-
-  - rank: 5
     name: "bokievkhushnud"
     membercount: 1
 
+  - rank: 5
+    name: "zyplai"
+    membercount: 1
+
   - rank: 6
-    name: "lookona"
+    name: "chayxana"
     membercount: 1
 
   - rank: 7
-    name: "contobox"
+    name: "koblesystems"
     membercount: 1
 
   - rank: 8
-    name: "oxustj"
+    name: "silkroadprofessionals"
     membercount: 1
 
   - rank: 9
-    name: "elsegroup"
+    name: "llc-alif-technology"
     membercount: 1
 
   - rank: 10
-    name: "shylabs"
+    name: "evilmartians"
     membercount: 1
-generated: 2025-09-16T02:14:27Z
+generated: 2025-09-16T03:21:58Z
 min_followers_required: 0
 total_user_count: 0
 title: Tajikistan
