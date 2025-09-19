@@ -4552,7 +4552,7 @@ private_users:
     name: "Nurullo"
     login: "Maverick2502"
     avatarUrl: https://avatars.githubusercontent.com/u/61463916?u=f5cb76433da6b41d8854b9e4505e17589a398db6&v=4
-    contributions: 755
+    contributions: 756
     company: ""
     organizations: ""
 
@@ -5784,7 +5784,7 @@ private_users:
     name: ""
     login: "azimjon-nematov"
     avatarUrl: https://avatars.githubusercontent.com/u/99798110?u=e6c21f7c90b1bf6ff30b6f46b8ecf325c1a8aa43&v=4
-    contributions: 76
+    contributions: 77
     company: ""
     organizations: ""
 
@@ -6163,31 +6163,31 @@ organizations:
     membercount: 2
 
   - rank: 4
-    name: "contobox"
+    name: "microsoft"
     membercount: 1
 
   - rank: 5
-    name: "zypl-career"
+    name: "irsiyat"
     membercount: 1
 
   - rank: 6
-    name: "codex-team"
+    name: "n1k-dev"
     membercount: 1
 
   - rank: 7
-    name: "lookona"
+    name: "contobox"
     membercount: 1
 
   - rank: 8
-    name: "pythonism"
+    name: "zyplai"
     membercount: 1
 
   - rank: 9
-    name: "shylabs"
+    name: "bokievkhushnud"
     membercount: 1
 
   - rank: 10
-    name: "n1k-dev"
+    name: "lookona"
     membercount: 1
 
 public_contributions_organizations:
@@ -6205,11 +6205,11 @@ public_contributions_organizations:
     membercount: 2
 
   - rank: 4
-    name: "pythonism"
+    name: "llc-alif-technology"
     membercount: 1
 
   - rank: 5
-    name: "evilmartians"
+    name: "zypl-career"
     membercount: 1
 
   - rank: 6
@@ -6217,19 +6217,19 @@ public_contributions_organizations:
     membercount: 1
 
   - rank: 7
-    name: "oxustj"
+    name: "n1k-dev"
     membercount: 1
 
   - rank: 8
-    name: "zyplai"
+    name: "chayxana"
     membercount: 1
 
   - rank: 9
-    name: "irsiyat"
+    name: "microsoft"
     membercount: 1
 
   - rank: 10
-    name: "lookona"
+    name: "pythonism"
     membercount: 1
 
 private_organizations:
@@ -6247,33 +6247,33 @@ private_organizations:
     membercount: 2
 
   - rank: 4
-    name: "contobox"
+    name: "liberty-education"
     membercount: 1
 
   - rank: 5
-    name: "pythonism"
-    membercount: 1
-
-  - rank: 6
-    name: "koblesystems"
-    membercount: 1
-
-  - rank: 7
-    name: "bokievkhushnud"
-    membercount: 1
-
-  - rank: 8
-    name: "lookona"
-    membercount: 1
-
-  - rank: 9
     name: "oxustj"
     membercount: 1
 
-  - rank: 10
-    name: "evilmartians"
+  - rank: 6
+    name: "zypl-career"
     membercount: 1
-generated: 2025-09-19T02:17:51Z
+
+  - rank: 7
+    name: "eskhata-digital"
+    membercount: 1
+
+  - rank: 8
+    name: "chayxana"
+    membercount: 1
+
+  - rank: 9
+    name: "n1k-dev"
+    membercount: 1
+
+  - rank: 10
+    name: "shylabs"
+    membercount: 1
+generated: 2025-09-19T03:27:11Z
 min_followers_required: 0
 total_user_count: 0
 title: Tajikistan
